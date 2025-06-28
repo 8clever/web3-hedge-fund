@@ -59,3 +59,6 @@ A Web3 hedge fund offers a new paradigm for investment, combining the benefits o
 	+ Smart Contracts: Self-executing contracts with predefined rules.
 
 Note: This document is for informational purposes only and should not be considered as investment advice.
+
+**How does it works**
+![diagram](https://raw.githubusercontent.com/8clever/web3-hedge-fund/refs/heads/main/diagram.webp)
